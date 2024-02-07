@@ -1,0 +1,59 @@
+﻿  Board.cpp
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.cpp(643,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.cpp(645,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+  Main.cpp
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(23,31): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(23,20): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(29,28): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(29,17): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(66,68): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(66,60): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(68,68): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(68,60): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Main.cpp(143,5): warning C4551: 函式呼叫遺漏引數清單
+  Mouse.cpp
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(148,48): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(149,49): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(163,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(163,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(166,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(166,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(167,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(170,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(170,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(173,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(173,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(176,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(176,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(177,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(180,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(180,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(183,60): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(183,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(186,87): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(186,53): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(244,48): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(245,49): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(259,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(259,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(262,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(262,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(263,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(266,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(266,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(269,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(269,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(272,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(272,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(273,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(276,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(276,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(279,89): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Mouse.cpp(279,52): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.cpp(16): warning C4715: 'ExtractDigits': 不是所有控制路徑都傳回值
+C:\Users\a2004\Downloads\Reversi1.1.0\Reversi\Board.cpp(646): warning C4715: 'Board::CountBoard': 不是所有控制路徑都傳回值
+  Reversi.vcxproj -> C:\Users\a2004\Downloads\Reversi1.1.0\x64\Debug\Reversi.exe
