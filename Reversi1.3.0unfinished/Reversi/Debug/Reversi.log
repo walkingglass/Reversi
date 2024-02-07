@@ -1,0 +1,89 @@
+﻿  Board.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(689,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(691,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(715,118): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(716,119): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(717,119): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(718,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(719,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(720,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(721,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(722,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(725,76): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(727,76): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(730,78): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(732,78): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  Main.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(39,32): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(39,21): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(100,88): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(100,80): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(107,88): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(107,80): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(198,16): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 'H'
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(201,16): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 'H'
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(202,16): warning C4778: 'printf' : 未結束的格式字串 '%0H'
+  Mouse.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(144,44): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(145,45): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(159,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(159,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(162,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(162,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(163,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(166,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(166,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(169,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(169,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(172,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(172,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(173,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(176,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(176,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(179,60): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(179,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(182,87): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(182,53): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(205,86): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(205,51): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(245,44): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(246,45): warning C4244: '正在初始化': 將 'LONG' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(260,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(260,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(263,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(263,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(264,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(267,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(267,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(270,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(270,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(273,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(273,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(274,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(277,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(277,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(280,92): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(280,81): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(283,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(283,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(286,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(286,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(287,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(290,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(290,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(293,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(293,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(296,59): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(296,45): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(297,32): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(300,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(300,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(303,89): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(303,52): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(306,63): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Mouse.cpp(306,51): warning C4244: '引數': 將 'double' 轉換為 'short'，由於類型不同，可能導致資料遺失
+  正在產生程式碼...
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(35): warning C4715: 'ExtractDigits': 不是所有控制路徑都傳回值
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(692): warning C4715: 'Board::CountBoard': 不是所有控制路徑都傳回值
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(748): warning C4715: 'Board::AIPut': 不是所有控制路徑都傳回值
+  Reversi.vcxproj -> C:\Users\a2004\OneDrive\桌面\Reversi\Debug\Reversi.exe
