@@ -1,0 +1,19 @@
+﻿  Board.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(669,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(671,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(698,118): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(699,119): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(700,119): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(701,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(702,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(703,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(704,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(705,120): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(708,76): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(710,76): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(713,78): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(715,78): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(21): warning C4715: 'ExtractDigits': 不是所有控制路徑都傳回值
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(672): warning C4715: 'Board::CountBoard': 不是所有控制路徑都傳回值
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(731): warning C4715: 'Board::AIPut': 不是所有控制路徑都傳回值
+  Reversi.vcxproj -> C:\Users\a2004\OneDrive\桌面\Reversi\Debug\Reversi.exe
