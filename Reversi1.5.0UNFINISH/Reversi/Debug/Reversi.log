@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(41,32): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(41,21): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(107,84): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(107,76): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(114,84): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(114,76): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(205,16): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 'H'
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(208,16): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 'H'
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(209,16): warning C4778: 'printf' : 未結束的格式字串 '%0H'
+  Reversi.vcxproj -> C:\Users\a2004\OneDrive\桌面\Reversi\Debug\Reversi.exe
