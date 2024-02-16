@@ -1,0 +1,19 @@
+﻿  Main.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(39,89): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(39,52): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(45,32): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(45,21): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(111,84): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(111,76): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(118,84): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(118,76): warning C4244: '引數': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(153,40): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(153,29): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(195,40): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(195,29): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(234,89): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(234,52): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(249,16): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 'H'
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(252,16): warning C4476: 'printf' : 格式規範中有未知的類型欄位字元 'H'
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Main.cpp(253,16): warning C4778: 'printf' : 未結束的格式字串 '%0H'
+  Reversi.vcxproj -> C:\Users\a2004\OneDrive\桌面\Reversi\Debug\Reversi.exe
