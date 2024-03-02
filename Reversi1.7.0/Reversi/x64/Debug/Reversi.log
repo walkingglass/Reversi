@@ -1,0 +1,12 @@
+﻿  Board.cpp
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(593,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(595,16): warning C4244: 'return': 將 'short' 轉換為 'uint8_t'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(618,162): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(621,106): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(623,106): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(626,108): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(628,108): warning C4244: '+=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(25): warning C4715: 'ExtractDigits': 不是所有控制路徑都傳回值
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(596): warning C4715: 'Board::CountBoard': 不是所有控制路徑都傳回值
+C:\Users\a2004\OneDrive\桌面\Reversi\Reversi\Board.cpp(655): warning C4715: 'Board::AIPut': 不是所有控制路徑都傳回值
+  Reversi.vcxproj -> C:\Users\a2004\OneDrive\桌面\Reversi\x64\Debug\Reversi.exe
